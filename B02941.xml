@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The act for remedying the ill state of the coin of the kingdom, enacts; that the several receivers-general ...</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02941</idno><idno type="EEBO-CITATION">53299068</idno>
+  <idno type="VID">179838</idno>
+  <idno type="EEBO-PROQUEST">2248538763</idno>
+  
+            <idno type="STC">Wing E1061</idno>
+            <idno type="STC">ESTC R224669</idno>
+            <idno type="OCLC">53299068</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B02941)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179838)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2805:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The act for remedying the ill state of the coin of the kingdom, enacts; that the several receivers-general ...</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Whitlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication and publisher from colophon.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coinage --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Adulterated coins --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="act">
+            <pb facs="tcp:179838:1"/>
+            <pb n="1" facs="tcp:179838:1"/>
+            <head>The Act for Remedying the Ill State of the Coin of the Kingdom, <hi>Enacts;</hi>
+            </head>
+            <p>THAT the several Receivers-General, and their several Depu<g ref="char:EOLhyphen"/>ties, and the particular Receivers, Collectors and other Offi<g ref="char:EOLhyphen"/>cers, who have or shall have, or be intrusted with the Receipt or Collection of his Majesty's Revenues, Impositions, Duties, Taxes, Aids or Supplies, or any of them now Granted or in being, or hereafter to be Granted, shall, and by this Act they are severally requi<g ref="char:EOLhyphen"/>red and enjoyned to accept and take in Payment for his Majesty's Use, for, or upon Account of any of the said Revenues, Impositions, Duties, Taxes, Aids, or Supplies respectively; such Clipt Monies, being Sterling Silver, or being Silver Monies of a courser Allay than the Standard, from such Person or Persons, Bodies Politick or Corpo<g ref="char:EOLhyphen"/>rate, as shall tender the same, in or for such Payments respectively, at any Time or Times before the fourth day of <hi>May,</hi> which shall be in the year of our Lord 1696, at the same Rate or Value, as if such Monies were Unclipt or Undiminish'd, and shall not refuse any Piece or Pieces of Silver Monies so tendred by Reason or Pretence of their being Worse, or holding more Allay than Standard-Silver, so as such Piece or Pieces do not evidently appear to be made of Copper or base Mettal Plated over or Washed with Silver only.</p>
+            <p>That the Tellers in the Receipt of his Majesty's Exchequer respective<g ref="char:EOLhyphen"/>ly, shall at any Time or Times, before the four and Twentieth Day of <hi>June,</hi> 1696, not only receive and take to his Majesty's Use at the Re<g ref="char:EOLhyphen"/>ceipt of Exchequer, the said Clipt Monies, which shall have been so Re<g ref="char:EOLhyphen"/>ceived or Collected by the said Receivers-General, and their several De<g ref="char:EOLhyphen"/>puties, or by the particular Receivers, Collectors or other Officers, which shall be by them brought to the said Receipt, for the said Revenues, Im<g ref="char:EOLhyphen"/>positions, Duties, Taxes, Aids or Supplies before-mention'd, but shall at any Time or Times before the said four and Twentieth Day of <hi>June,</hi> receive or take to his Majesty's Use, in such Clipt Money as aforesaid, any Loans which shall be authorized to be made or received there, or any other Payments which shall be due to his Majesty; unless such Loans or Payments, or any of them shall be specially directed by any other Act or Acts of Parliament to be received in other kind of Money.</p>
+            <p>That Every Person having unclipt hammered Money in his, her or their Hands, Custody or Possession, do before the tenth Day of <hi>Febru<g ref="char:EOLhyphen"/>ary,</hi> 1695, or before they dispose of the same, cause such unclipt Mo<g ref="char:EOLhyphen"/>nies to be struck through about the middle of every Piece with a solid Punch, that shall make a hole without diminishing the Silver; and that af<g ref="char:EOLhyphen"/>ter the said tenth Day of <hi>February</hi> no unclipt hammered Monies, (that is to say) such Pieces as have both Rings, or the greatest part of the Let<g ref="char:EOLhyphen"/>ters appearing thereon, shall be current, unless it be so struck through: And if any Piece struck through, shall appear afterwards to be Clipt, no Person shall tender or receive the same in Payment, under the Penalty of Forfeiting as much as the Clipt Monies so punch'd through shall amount to in tale, to be recovered to the use of the Poor of the Parish, where such Money shall be so Tendred or Received. And his Majesty's Justices of the Peace or the Major Part of them, in the General Quarter-Sessions, up<g ref="char:EOLhyphen"/>on Complaint to be made to them of such Offence, are hereby impower'd
+<pb n="2" facs="tcp:179838:2"/> to take Cognizance thereof, and to determine the same, and for that pur<g ref="char:EOLhyphen"/>pose to cause the Parties complain'd of to appear before them, and in Case of Conviction, to issue their Warrant or Warrants to levy such Pe<g ref="char:EOLhyphen"/>nalty upon the Goods and Chattels of the Offenders.</p>
+            <p>Provided, that nothing in this Act shall extend, or be construed to extend, to enforce or oblige the melting down, or Recoining, or pro<g ref="char:EOLhyphen"/>hibit the Receiving or Paying of Sixpences, being of Sterling, Silver and not being Clipt within the innermost Ring.</p>
+         </div>
+         <div type="act">
+            <head>The Act to Encourage the bringing Plate into the Mint to be Coined, and for further Remedying the ill State of the Coin, <hi>Enacts;</hi>
+            </head>
+            <p>That whosoever, after the Fourth Day of <hi>May</hi> 1696, shall take or re<g ref="char:EOLhyphen"/>ceive any Clipt Money, otherwise than according to the Directi<g ref="char:EOLhyphen"/>ons, and in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ursuance of an Act of this present Session of Parliament, Intituled, <hi>An Act for Remedying the Ill state of the Coin of the King<g ref="char:EOLhyphen"/>dom</hi> in any Payment whatsoever, as if it were lawfull Money, shall for<g ref="char:EOLhyphen"/>feit double the value of the Silver so Received, to the use of such Person as will Inform or Prosecute for the same, to be recovered in such manner and form, as the forfeiture for uttering Money Clipt after a hole has been puncht through it, in pursuance of an Act made in this pre<g ref="char:EOLhyphen"/>sent Session of Parliament, is directed, to be recovered by the said Act; and the Justices of the Peace are hereby Impowred to hear and deter<g ref="char:EOLhyphen"/>mine such Information or Prosecution accordingly.</p>
+            <p>That from and after the Tenth Day of <hi>April</hi> 1696, no Person shall Utter or Receive any of the Pieces of the Gold-Coin, commonly called Guineas, at any higher or greater Rate or Value than Two and Twenty Shillings for each Guinea, and so proportionably for every greater or lesser Piece of Coined Gold; and whoever shall offend herein, shall In<g ref="char:EOLhyphen"/>curr the Penalties and Forfeitures provided in an Act made in this pre<g ref="char:EOLhyphen"/>sent Parliament, for those that shall Receive or Pay Guineas and other Pieces of Coined Gold at a greater or higher Rate than in that Act is di<g ref="char:EOLhyphen"/>rected; <hi>which is,</hi> That in case any Person shall offend herein, he shall forfeit for every such Offence, double the Value of Gold so Received or Paid; and also the Summ of Twenty Pounds, the one moity to His Ma<g ref="char:EOLhyphen"/>jesty, and the other moity to the Person or Persons who shall Sue or In<g ref="char:EOLhyphen"/>form for the same, to be recovered with Costs of Suit in any of his Majesty's Courts of Record, by Action of Debt, Bill, Plaint or Informa<g ref="char:EOLhyphen"/>tion, wherein no Privilege, Protection, or Wager of Law shall be allow<g ref="char:EOLhyphen"/>ed, nor any more than one Imparlance.</p>
+            <p>That from and after the Fourth Day of <hi>May</hi> which shall be in the Year of our Lord 1696, no Person keeping any Inn, Tavern, Ale-house, or Victualling-house; or selling Wine, Ale, Beer, or any other Liquors by Retail, shall publickly use, or expose to be used in such, his or her House, any Wrought or Manufactured Plate whatsoever, or any Utensil or Vessel thereof (except <hi>Spoons</hi>) under the Penalty of forfeiting the same, or the full value thereof, together with full Costs or Suit to him, her or them who shall sue for the same in any of His Majesty's Courts of Record at <hi>Westminster</hi> by Bill, Plaint, or Information, wherein no Essoign, Protection, Wager at Law, or Imparlance, shall be allowed.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>E. Whitlock</hi> near <hi>Stationers-Hall.</hi>
+            </p>
+            <pb facs="tcp:179838:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
